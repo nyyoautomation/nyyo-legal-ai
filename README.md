@@ -8,11 +8,11 @@ analyze a document for risky clauses, and draft letters/clauses from the cited p
 - **Closed corpus, no open web** — answers only from the bundled files; refuses otherwise.
 - **Runs 100% in your browser** — BM25 retrieval + extractive answers, pdf.js for local PDF reading. No API calls.
 - **Fictional corpus** — all companies, places and "model laws" are invented for this demo.
-- **Delivered tool** — installed at your office, local AI via Ollama (Mistral / Llama / Qwen), works offline, you own it.
+- **Delivered tool** — installed at your office, local AI via Ollama (Mistral / Llama / Qwen), built to run offline, you own it.
 
 ### Zero access to your data
-No remote access, no passwords, no access codes. Open-source code your IT can audit, Checksum-verified installer (SHA-256), open source; OS code-signing provided with the delivered build, works with the network unplugged, updates only when you choose, support by video call where
-*you* share the screen. Uses your OS disk encryption (FileVault/BitLocker), set up at delivery. NDA signed first; pay only after you have seen it work.
+No remote access, no passwords, no access codes. Source code available for your IT to review, checksum-verified installer (SHA-256), OS code-signing provided with the delivered build, built to run offline, no account and no cloud upload by default, the tool has no remote-access feature, updates only when you choose, support by video call where
+*you* share the screen. Uses your OS disk encryption (FileVault/BitLocker), set up at delivery. Trial first + NDA in place before any real document; pay only after you have seen it work.
 
 ### Free 1-click install kit (included with every offer)
 See [`install-kit/`](install-kit/). The kit is free and included — you only pay for the build.

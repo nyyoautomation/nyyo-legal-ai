@@ -10,8 +10,8 @@ You (or your IT) run every step below yourself and can read every script first.
 | `install-local.ps1` | Windows PowerShell equivalent |
 | `verify.sh` | Prints SHA-256 checksums of the demo files so you can compare them with `SHA256SUMS` |
 
-The full client build (folder watcher, local vector index, local OCR, `.exe` / `.dmg` installer — Checksum-verified installer (SHA-256), open source; OS code-signing provided with the delivered build)
-is delivered with the paid setup and follows the same rules: localhost only, works offline, no telemetry.
+The full client build (folder watcher, local vector index, local OCR, `.exe` / `.dmg` installer — Checksum-verified installer (SHA-256); source code available for your IT to review; OS code-signing provided with the delivered build)
+is delivered with the paid setup and follows the same rules: localhost only, built to run offline, no account, no cloud upload by default.
 
 ## Offline test
 1. Download `dist/nyyo-legal-ai-offline-demo.zip` and unzip it.
