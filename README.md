@@ -19,7 +19,7 @@ See [`install-kit/`](install-kit/). The kit is free and included — you only pa
 
 ### Pricing
 One-time setup + optional low monthly maintenance. No subscription. **Price on request.**
-Installed at your office (recommended) · Hosted for you on a reputable EU host (on request).
+Installed at your office (recommended) · Hosted for you under your own cloud account, region of your choice (on request).
 
 **Remote · Worldwide** · [Hire on LaborX](https://laborx.com/freelancers/users/id475124) · [All demos](https://nyyoautomation.github.io/nyyoautomation/demos/)
 
