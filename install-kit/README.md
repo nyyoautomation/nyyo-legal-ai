@@ -16,7 +16,7 @@ is delivered with the paid setup and follows the same rules: localhost only, wor
 ## Offline test
 1. Download `dist/nyyo-legal-ai-offline-demo.zip` and unzip it.
 2. Turn off Wi-Fi / unplug the network cable.
-3. Open `index.html`. Ask and Draft keep working — nothing needs the internet.
+3. Open `index.html`. Ask, Analyze (incl. PDF) and Draft keep working — nothing needs the internet.
 
 ## Optional local AI (delivered tool)
 Runtime: [Ollama](https://ollama.com). Models: Mistral 7B, Llama 3.1 8B or Qwen 2.5 7B/14B depending on RAM
