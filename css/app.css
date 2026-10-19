@@ -216,3 +216,8 @@ p.sub{margin:0 0 20px;color:var(--muted);max-width:46rem}
 .chips.rail button{flex:0 0 auto;white-space:nowrap}
 .chips.rail::-webkit-scrollbar{height:6px}.chips.rail::-webkit-scrollbar-thumb{background:#24314f;border-radius:6px}
 .thread{min-height:380px}
+.side,.main,.viewer,.pane,.thread,.chips{min-width:0}
+@media (max-width:800px){.app-grid{grid-template-columns:minmax(0,1fr)}.doclist{max-width:100%}}
+.list li{display:block;position:relative;padding-left:25px}
+.list li::before{position:absolute;left:0;top:0;width:16px}
+.tiers{align-content:start}
