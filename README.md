@@ -1,0 +1,29 @@
+# Nyyo Legal — the legal AI assistant you own
+
+**Live demo:** https://nyyoautomation.github.io/nyyo-legal-ai/
+
+A closed-corpus legal assistant demo: ask contracts and memos, get answers that cite the exact clause,
+analyze a document for risky clauses, and draft letters/clauses from the cited passages.
+
+- **Closed corpus, no open web** — answers only from the bundled files; refuses otherwise.
+- **Runs 100% in your browser** — BM25 retrieval + extractive answers, pdf.js for local PDF reading. No API calls.
+- **Fictional corpus** — all companies, places and "model laws" are invented for this demo.
+- **Delivered tool** — installed at your office, local AI via Ollama (Mistral / Llama / Qwen), works offline, you own it.
+
+### Zero access to your data
+No remote access, no passwords, no access codes. Open-source code your IT can audit, signed installer with
+published checksums, works with the network unplugged, updates only when you choose, support by video call where
+*you* share the screen. NDA signed first; pay only after you have seen it work.
+
+### Free 1-click install kit (included with every offer)
+See [`install-kit/`](install-kit/). The kit is free and included — you only pay for the build.
+
+### Pricing
+One-time setup + optional low monthly maintenance. No subscription. **Price on request.**
+Installed at your office (recommended) · Hosted for you on a reputable EU host (on request).
+
+**Remote · Worldwide** · [Hire on LaborX](https://laborx.com/freelancers/users/id475124) · [All demos](https://nyyoautomation.github.io/nyyoautomation/demos/)
+
+> Demo only — not legal advice. Human review by a qualified professional is required.
+
+MIT License.
