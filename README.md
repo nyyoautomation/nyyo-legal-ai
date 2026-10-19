@@ -11,9 +11,8 @@ analyze a document for risky clauses, and draft letters/clauses from the cited p
 - **Delivered tool** — installed at your office, local AI via Ollama (Mistral / Llama / Qwen), works offline, you own it.
 
 ### Zero access to your data
-No remote access, no passwords, no access codes. Open-source code your IT can audit, signed installer with
-published checksums, works with the network unplugged, updates only when you choose, support by video call where
-*you* share the screen. NDA signed first; pay only after you have seen it work.
+No remote access, no passwords, no access codes. Open-source code your IT can audit, Checksum-verified installer (SHA-256), open source; OS code-signing provided with the delivered build, works with the network unplugged, updates only when you choose, support by video call where
+*you* share the screen. Uses your OS disk encryption (FileVault/BitLocker), set up at delivery. NDA signed first; pay only after you have seen it work.
 
 ### Free 1-click install kit (included with every offer)
 See [`install-kit/`](install-kit/). The kit is free and included — you only pay for the build.

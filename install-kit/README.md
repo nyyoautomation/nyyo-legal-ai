@@ -10,7 +10,7 @@ You (or your IT) run every step below yourself and can read every script first.
 | `install-local.ps1` | Windows PowerShell equivalent |
 | `verify.sh` | Prints SHA-256 checksums of the demo files so you can compare them with `SHA256SUMS` |
 
-The full client build (folder watcher, local vector index, local OCR, signed `.exe` / `.dmg` installer)
+The full client build (folder watcher, local vector index, local OCR, `.exe` / `.dmg` installer — Checksum-verified installer (SHA-256), open source; OS code-signing provided with the delivered build)
 is delivered with the paid setup and follows the same rules: localhost only, works offline, no telemetry.
 
 ## Offline test
