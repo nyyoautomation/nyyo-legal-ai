@@ -18,6 +18,6 @@ is delivered with the paid setup and follows the same rules: localhost only, bui
 2. Turn off Wi-Fi / unplug the network cable.
 3. Open `index.html`. Ask, Analyze (incl. PDF) and Draft keep working — nothing needs the internet.
 
-## Optional local AI (delivered tool)
+## Optional local AI
 Runtime: [Ollama](https://ollama.com). Models: Mistral 7B, Llama 3.1 8B or Qwen 2.5 7B/14B depending on RAM
 (16 GB for solo use; 32 GB+ recommended for 14B models). After the model is downloaded, no internet connection is required.
